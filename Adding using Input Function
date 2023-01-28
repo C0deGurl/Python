@@ -1,0 +1,4 @@
+p = input("Enter any number: ") 
+q = input("Enter any number: ")
+
+print("Sum is", p+q)
