@@ -1,0 +1,3 @@
+print("Enter your first name:")
+s = input()
+print("You are now in outer space " + s + "!")
